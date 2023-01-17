@@ -1,0 +1,22 @@
+.container{
+    text-align:center;
+}
+
+.btn{
+    background-image: -webkit-linear-gradient(top, #eb94d0, #2079b0);
+    border-radius: 6px;
+    padding: 10px 20px;
+    cursor: pointer;
+    color: rgb(238, 241, 244);
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    text-transform: uppercase;
+
+}
+.form-control{
+    width: 200px;
+    padding: 10px;
+    text-align: left;
+    
+
+}
